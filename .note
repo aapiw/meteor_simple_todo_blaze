@@ -1,0 +1,25 @@
+1. Creating an app
+2. Templates
+3. Collections
+4. Forms and events
+5. Update and remove
+6. Running on mobile
+7. Temporary UI state
+8. Adding user accounts
+9. Security with methods
+10. Publish and subscribe
+11. Testing
+12. Next steps
+
+meteor remove insecure
+meteor remove autopublish
+
+#Mocha
+meteor add practicalmeteor:mocha
+meteor test --driver-package practicalmeteor:mocha --port 4000
+#/
+
+API
+ - methods
+ 	- CDRUD
+ 	- validasi
